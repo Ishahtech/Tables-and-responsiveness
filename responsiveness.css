@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px) 
+ { td, th, tbody{
+        max-width: 100%;
+        background-color: rgba(0, 255, 200, 0.377);
+ }
+    
+}
+
+
+@media only screen and (max-width: 425px) 
+ { td, th, tbody{
+        max-width: 100%;
+        background-color: rgba(180, 155, 219, 0.493);
+ }
+    
+}
